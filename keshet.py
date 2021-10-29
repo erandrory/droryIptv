@@ -93,7 +93,7 @@ userAgents = [
 userAgent = random.choice(userAgents)
 headers = {};
 headers['Accept-Encoding'] = 'gzip, deflate';
-headers['User-Agent'] = userAgent = 'Android';
+headers['User-Agent'] = userAgent;# = 'Android';
 
 url = 'https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm';
 entitlementsServices = 'https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp';
