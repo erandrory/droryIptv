@@ -124,8 +124,6 @@ result = session.get(l,headers=headers);
 result.encoding = 'utf-8' 
 result = result.json();
 
-print(result);
-
 ticket = result['tickets'][0]['ticket'];
 url = '{0}?{1}'.format(url2,ticket);
 base = urlparse.urlparse(url);
@@ -133,56 +131,36 @@ baseUrl = '{0}://{1}{2}'.format(base.scheme, base.netloc, base.path);
 
 link = session.get(url, headers=headers);
 link.encoding = 'utf-8';
-#print(link.text);
+
 if link.status_code != 200 :
     print('error');
     exit(0);
-
 
 cookie_string = "; ".join([str(x)+"="+str(y) for x,y in link.cookies.items()]);
 
 resolutions = [x for x in re.compile('^#EXT-X-STREAM-INF:.*?BANDWIDTH=(\d+)(.*?)\n(.*?)$', re.M).findall(link.text)];
 resolutions = sorted(resolutions,key=lambda resolutions: int(resolutions[0]), reverse=True);
 
-print(cookie_string);
-
 urlSplit = resolutions[0][2].split('?hdntl=');
-#url = '{0}{1}{2}|User-Agent={3}'.format(urlSplit[0],'?hdntl=',urlparse.quote(urlSplit[1]),userAgent);
-url = '{0}{1}{2}'.format(urlSplit[0],'?hdntl=',urlparse.quote(urlSplit[1]));
+url = '{0}?hdntl={1}&Cookie={2}|User-Agent="{3}"'.format(urlSplit[0],urlparse.quote(urlSplit[1]),urlparse.quote(cookie_string),userAgent);
 url = urlparse.urljoin(baseUrl, url);
 
-print(url);
+#check = session.get(url, headers=headers, cookies=link.cookies);
+#check.encoding = 'utf-8';
 
-check = session.get(url, headers=headers, cookies=link.cookies);
-check.encoding = 'utf-8';
+#if (check.status_code==200):
+#	print('success');
+#else:
+#	print('error');
+#
+final_str = """#EXTM3U
+#EXTINF:-1 tvg-id="ch 12 קשת" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
+""";
 
-if (check.status_code==200):
-	print('success');
-else:
-	print('error');
+final_str = final_str + url;
 
+f = open('keshet.m3u8','wb');
+f.write(final_str.encode('utf8'));
+f.close;
 
-#regExp = re.compile('(#EXTINF.*\n)([^/]*)');
-#regExp = re.compile('(#EXTINF.*\n)(.*\?hdntl=)(.*\n)');
-url = baseUrl[0:baseUrl.rfind('/')+1];
-#m3u8 = regExp.sub(r'\1{0}\2{1}'.format(url),check.text);
-
-newList = [];
-for line in check.text.splitlines():
-    lines = line.split('?hdntl=');
-    if len(lines)>1:
-        #tmp = '#EXTVLCOPT:http-user-agent="{0}"'.format(urlparse.quote(userAgent));
-        #newList.append(tmp);
-        tmp = '{0}{1}?hdntl={2}|User-agent={3}'.format(url,lines[0],lines[1],userAgent);
-        #tmp = '{0}{1}?hdntl={2}'.format(url,lines[0],lines[1]);
-        newList.append(tmp);
-    else:
-        newList.append(line);
-
-m3u8 = '\n'.join(newList);    
-#print(userAgent);
-f = open("keshet_ts.m3u8", "w");
-f.write(m3u8);
-f.close();
-
-
+exit(0);
