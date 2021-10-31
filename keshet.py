@@ -154,7 +154,7 @@ url = urlparse.urljoin(baseUrl, url);
 #	print('error');
 #
 final_str = """#EXTM3U
-#EXTINF:-1 tvg-id="ch 12 קשת" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
+#EXTINF:-1 tvg-id="12" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
 """;
 
 final_str = final_str + url;
