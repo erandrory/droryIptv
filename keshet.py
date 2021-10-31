@@ -93,7 +93,7 @@ userAgents = [
 userAgent = random.choice(userAgents)
 headers = {};
 headers['Accept-Encoding'] = 'gzip, deflate';
-headers['User-Agent'] = userAgent;# = 'Android';
+headers['User-Agent'] = userAgent;
 
 url = 'https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm';
 entitlementsServices = 'https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp';
@@ -124,6 +124,8 @@ result = session.get(l,headers=headers);
 result.encoding = 'utf-8' 
 result = result.json();
 
+print(result);
+
 ticket = result['tickets'][0]['ticket'];
 url = '{0}?{1}'.format(url2,ticket);
 base = urlparse.urlparse(url);
@@ -136,19 +138,28 @@ if link.status_code != 200 :
     print('error');
     exit(0);
 
-cookie_string = "; ".join([str(x)+"="+str(y) for x,y in link.cookies.items()])
+
+cookie_string = "; ".join([str(x)+"="+str(y) for x,y in link.cookies.items()]);
+
 resolutions = [x for x in re.compile('^#EXT-X-STREAM-INF:.*?BANDWIDTH=(\d+)(.*?)\n(.*?)$', re.M).findall(link.text)];
 resolutions = sorted(resolutions,key=lambda resolutions: int(resolutions[0]), reverse=True);
 
+print(cookie_string);
+
 urlSplit = resolutions[0][2].split('?hdntl=');
-url = '{0}{1}{2}|User-Agent={3}&Cookie={4}&Referer=http://keshethlslive-i.akamaihd.net/hls/live'.format(urlSplit[0],'?hdntl=',urlparse.quote(urlSplit[1]),userAgent,urlparse.quote(cookie_string));
+#url = '{0}{1}{2}|User-Agent={3}'.format(urlSplit[0],'?hdntl=',urlparse.quote(urlSplit[1]),userAgent);
+url = '{0}{1}{2}'.format(urlSplit[0],'?hdntl=',urlparse.quote(urlSplit[1]));
 url = urlparse.urljoin(baseUrl, url);
 
 print(url);
-exit(0);
 
-check = session.get(url, headers=headers, cookies=session.cookies);
+check = session.get(url, headers=headers, cookies=link.cookies);
 check.encoding = 'utf-8';
+
+if (check.status_code==200):
+	print('success');
+else:
+	print('error');
 
 
 #regExp = re.compile('(#EXTINF.*\n)([^/]*)');
@@ -169,8 +180,8 @@ for line in check.text.splitlines():
         newList.append(line);
 
 m3u8 = '\n'.join(newList);    
-print(userAgent);
-f = open("12.m3u8", "w");
+#print(userAgent);
+f = open("keshet_ts.m3u8", "w");
 f.write(m3u8);
 f.close();
 
