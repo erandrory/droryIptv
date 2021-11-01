@@ -15,7 +15,7 @@ with zipfile.ZipFile('epg.zip', 'r') as zip_ref:
 f = open('epg.json','r',encoding='utf-8');
 epgJson = json.load(f);
 
-xml = '<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv>';
+xml = '<?xml version="1.0" encoding="ISO-8859-1"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n<tv>';
 
 #for channel in list(epgJson.keys()):
 channel = '12';
