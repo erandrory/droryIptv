@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import random, json, requests, zipfile
+from datetime import datetime, timezone
 
 epgURL = ['http://bit.ly/epgfish', 'http://bit.ly/epgzip'];
 
@@ -15,12 +16,19 @@ with zipfile.ZipFile('epg.zip', 'r') as zip_ref:
 f = open('epg.json','r',encoding='utf-8');
 epgJson = json.load(f);
 
-xml = '<?xml version="1.0" encoding="ISO-8859-1"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n<tv>';
+xml = """<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="tv">
+    <channel id="Channel12.il">
+        <display-name lang="he">קשת 12</display-name>
+    </channel>
+""";
 
 #for channel in list(epgJson.keys()):
-channel = '12';
-for program in epgJson[channel]:
-    programStr = '<programme start="{0}" stop="{1}" channel="{2}"><title lang="he">{3}</title><desc lang="he">{4}</desc></programme>'.format(program['start'],program['end'],channel,program['name'],program['description']);
+channel = 'Channel12.il';
+for program in epgJson['12']:
+    startTime = datetime.fromtimestamp( int(program['start']) ).strftime("%Y%m%d%H%M%S");
+    endTime = datetime.fromtimestamp( int(program['end']) ).strftime("%Y%m%d%H%M%S");
+    programStr = '<programme start="{0} +0200" stop="{1} +0200" channel="{2}">\n<title lang="he">{3}</title>\n<desc lang="he">{4}</desc>\n</programme>\n'.format(startTime,endTime,channel,program['name'],program['description']);
     xml += programStr;
         
 xml += '</tv>';

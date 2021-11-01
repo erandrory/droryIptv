@@ -3,8 +3,548 @@
     <channel id="Channel12.il">
         <display-name lang="he">קשת 12</display-name>
     </channel>
-    <programme start="20211102000000 +0300" stop="20211102013000 +0300" channel="Channel12.il">
-        <title lang="he">מבזק חצות</title>
-        <desc lang="he">מבזק חצות כ' ע''פ דרישה. שידור חי.</desc>
-    </programme>
+<programme start="20211031210000 +0200" stop="20211031211500 +0200" channel="Channel12.il">
+<title lang="he">מוקדם על הבוקר</title>
+<desc lang="he">מוקדם על הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211031211500 +0200" stop="20211031212000 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211031212000 +0200" stop="20211101003000 +0200" channel="Channel12.il">
+<title lang="he">כותרות הבוקר</title>
+<desc lang="he">כותרות הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101003000 +0200" stop="20211101003500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101003500 +0200" stop="20211101023000 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101023000 +0200" stop="20211101024500 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101024500 +0200" stop="20211101040000 +0200" channel="Channel12.il">
+<title lang="he">חתונה ממבט ראשון</title>
+<desc lang="he">ניסוי חברתי נועז, מספק הצצה נדירה לזוגות אמיצים, שהסכימו לפגוש את החצי השני שלהם לראשונה - מתחת לחופה! האם הזוגות, שהותאמו על ידי צוות מומחים, יצליחו לחיות כזוג בעודם זרים מוחלטים? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101040000 +0200" stop="20211101060000 +0200" channel="Channel12.il">
+<title lang="he">גלית ויואב</title>
+<desc lang="he">שידור חי.תוכנית חדשה, גלית גוטמן ויואב לימור, כל יום בין אחת לשלוש, עם כל החדשות, עידכונים, סיפורים שקורים ואורחים מעניינים. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101060000 +0200" stop="20211101070000 +0200" channel="Channel12.il">
+<title lang="he">שלוש עם עופר חדד</title>
+<desc lang="he">החדשות הראשונות של היום. עופר חדד עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים בכל יום בשלוש כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101070000 +0200" stop="20211101080000 +0200" channel="Channel12.il">
+<title lang="he">מהדורה ראשונה</title>
+<desc lang="he">מגזין חדשות יומי. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101080000 +0200" stop="20211101085500 +0200" channel="Channel12.il">
+<title lang="he">חמש עם רפי רשף</title>
+<desc lang="he">תכנית אקטואליה יומית, בהנחיית רפי רשף. התכנית משודרת בימים ראשון - חמישי כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101085500 +0200" stop="20211101100000 +0200" channel="Channel12.il">
+<title lang="he">שש עם....</title>
+<desc lang="he">בכל ערב ב-18:00 עודד בן עמי מביא אליכם למסך את האנשים שעושים את הכותרות בישראל ומספרים על הדרמות המרגשות של היום כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101100000 +0200" stop="20211101105800 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101105800 +0200" stop="20211101123000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הערב - המהדורה המרכזית</title>
+<desc lang="he">מהדורת החדשות המרכזית של ערוץ 12. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101123000 +0200" stop="20211101135500 +0200" channel="Channel12.il">
+<title lang="he">חתונה ממבט ראשון - המומחים מתערבים</title>
+<desc lang="he">לראשונה בתוכנית, המומחים מחליטים להתערב בסוף השבוע של הזוגות ומורידים לכולם את המסכות. מה יקרה כשהסודות יתגלו? כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101135500 +0200" stop="20211101142500 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101142500 +0200" stop="20211101145500 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101145500 +0200" stop="20211101150000 +0200" channel="Channel12.il">
+<title lang="he">זמן תוצאות</title>
+<desc lang="he">זמן תוצאות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101150000 +0200" stop="20211101150500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חצות</title>
+<desc lang="he">מבזק חצות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101150500 +0200" stop="20211101160000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101160000 +0200" stop="20211101173000 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101173000 +0200" stop="20211101175500 +0200" channel="Channel12.il">
+<title lang="he">מוסיקה עברית</title>
+<desc lang="he">מוסיקה עברית ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101175500 +0200" stop="20211101190000 +0200" channel="Channel12.il">
+<title lang="he">פרספקטיבה</title>
+<desc lang="he">מגזין שבועי בהנחיית למא טאטור ואליאס עבוד. תוכנית אירוח וראיונות טלווזיונית בשפה הערבית. אורחים שונים מרקעים שונים, ובעלי תחומי עניין רחבים ומגוונים דנים בנושאים שונים - אישיים וציבוריים. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101190000 +0200" stop="20211101193000 +0200" channel="Channel12.il">
+<title lang="he">אמנות ותבשילים</title>
+<desc lang="he">שתי דמויות מעולם האמנות ומתחום הקולינריה נפגשים במקום הטבעי להם כגון במה, אולם, מוזיאון, או מעבדה ובמקביל, שף, איש קיטרינג, קונדיטור או אפילו חובבן ומכינים בפנינו אוכל טעים ומיוחד. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101193000 +0200" stop="20211101200000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101200000 +0200" stop="20211101202000 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101202000 +0200" stop="20211101210000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101210000 +0200" stop="20211101211500 +0200" channel="Channel12.il">
+<title lang="he">מוקדם על הבוקר</title>
+<desc lang="he">מוקדם על הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101211500 +0200" stop="20211101212000 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101212000 +0200" stop="20211101220000 +0200" channel="Channel12.il">
+<title lang="he">כותרות הבוקר</title>
+<desc lang="he">כותרות הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101220000 +0200" stop="20211101220800 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211101220800 +0200" stop="20211102003000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הבוקר עם ניב רסקין</title>
+<desc lang="he">מהדורת החדשות המרכזית של הבוקר, האנשים הפרשנויות והכותרות שיעשו את היום. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102003000 +0200" stop="20211102003500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102003500 +0200" stop="20211102023000 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102023000 +0200" stop="20211102024500 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102024500 +0200" stop="20211102040000 +0200" channel="Channel12.il">
+<title lang="he">הזמר במסכה</title>
+<desc lang="he">הזמר במסכה, הפורמט שכבש את העולם חוזר בעונה חדשה. הסוד הכי שמור בטלוויזיה עומד להיחשף. האם תצליחו לזהות את 18 האנשים המפורסמים בישראל הנמצאים מאחורי המסכה? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102040000 +0200" stop="20211102060000 +0200" channel="Channel12.il">
+<title lang="he">גלית ויואב</title>
+<desc lang="he">שידור חי.תוכנית חדשה, גלית גוטמן ויואב לימור, כל יום בין אחת לשלוש, עם כל החדשות, עידכונים, סיפורים שקורים ואורחים מעניינים. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102060000 +0200" stop="20211102070000 +0200" channel="Channel12.il">
+<title lang="he">שלוש עם עופר חדד</title>
+<desc lang="he">החדשות הראשונות של היום. עופר חדד עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים בכל יום בשלוש כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102070000 +0200" stop="20211102080000 +0200" channel="Channel12.il">
+<title lang="he">מהדורה ראשונה</title>
+<desc lang="he">מגזין חדשות יומי. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102080000 +0200" stop="20211102085500 +0200" channel="Channel12.il">
+<title lang="he">חמש עם רפי רשף</title>
+<desc lang="he">תכנית אקטואליה יומית, בהנחיית רפי רשף. התכנית משודרת בימים ראשון - חמישי כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102085500 +0200" stop="20211102100000 +0200" channel="Channel12.il">
+<title lang="he">שש עם....</title>
+<desc lang="he">בכל ערב ב-18:00 עודד בן עמי מביא אליכם למסך את האנשים שעושים את הכותרות בישראל ומספרים על הדרמות המרגשות של היום כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102100000 +0200" stop="20211102105800 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102105800 +0200" stop="20211102123000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הערב - המהדורה המרכזית</title>
+<desc lang="he">מהדורת החדשות המרכזית של ערוץ 12. בליווי שס''י. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102123000 +0200" stop="20211102135500 +0200" channel="Channel12.il">
+<title lang="he">הזמר במסכה</title>
+<desc lang="he">הזמר במסכה, הפורמט שכבש את העולם חוזר בעונה חדשה. הסוד הכי שמור בטלוויזיה עומד להיחשף. האם תצליחו לזהות את 18 האנשים המפורסמים בישראל הנמצאים מאחורי המסכה? כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102135500 +0200" stop="20211102143000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102143000 +0200" stop="20211102150000 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102150000 +0200" stop="20211102150500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חצות</title>
+<desc lang="he">מבזק חצות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102150500 +0200" stop="20211102154000 +0200" channel="Channel12.il">
+<title lang="he">מה הלו''ז ?</title>
+<desc lang="he">מה הלוז- מגזין התרבות החדש עם מעיין אדם ואבי קורניק,כל ההמלצות הכי שוות לסרטים ,הופעות ,פסטיבלים ובילויים לכל המשפחה. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102154000 +0200" stop="20211102162000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102162000 +0200" stop="20211102173500 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102173500 +0200" stop="20211102180000 +0200" channel="Channel12.il">
+<title lang="he">מוסיקה עברית</title>
+<desc lang="he">מוסיקה עברית ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102180000 +0200" stop="20211102190000 +0200" channel="Channel12.il">
+<title lang="he">פרספקטיבה</title>
+<desc lang="he">מגזין שבועי בהנחיית למא טאטור ואליאס עבוד. תוכנית אירוח וראיונות טלווזיונית בשפה הערבית. אורחים שונים מרקעים שונים, ובעלי תחומי עניין רחבים ומגוונים דנים בנושאים שונים - אישיים וציבוריים. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102190000 +0200" stop="20211102193000 +0200" channel="Channel12.il">
+<title lang="he">אמנות ותבשילים</title>
+<desc lang="he">שתי דמויות מעולם האמנות ומתחום הקולינריה נפגשים במקום הטבעי להם כגון במה, אולם, מוזיאון, או מעבדה ובמקביל, שף, איש קיטרינג, קונדיטור או אפילו חובבן ומכינים בפנינו אוכל טעים ומיוחד. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102193000 +0200" stop="20211102200000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102200000 +0200" stop="20211102202000 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102202000 +0200" stop="20211102210000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. בליווי שס''י. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102210000 +0200" stop="20211102211500 +0200" channel="Channel12.il">
+<title lang="he">מוקדם על הבוקר</title>
+<desc lang="he">מוקדם על הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102211500 +0200" stop="20211102212000 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102212000 +0200" stop="20211102220000 +0200" channel="Channel12.il">
+<title lang="he">כותרות הבוקר</title>
+<desc lang="he">כותרות הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102220000 +0200" stop="20211102220800 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102220800 +0200" stop="20211102223000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הבוקר עם ניב רסקין</title>
+<desc lang="he">מהדורת החדשות המרכזית של הבוקר, האנשים הפרשנויות והכותרות שיעשו את היום. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102223000 +0200" stop="20211102223300 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211102223300 +0200" stop="20211103003000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הבוקר עם ניב רסקין</title>
+<desc lang="he">מהדורת החדשות המרכזית של הבוקר, האנשים הפרשנויות והכותרות שיעשו את היום. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103003000 +0200" stop="20211103003500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103003500 +0200" stop="20211103023000 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103023000 +0200" stop="20211103031000 +0200" channel="Channel12.il">
+<title lang="he">מרגישות יופי</title>
+<desc lang="he">הטרנדים והחידושים הכי חמים ונכונים של עולם היופי והטיפוח. כל מה שצריך לדעת כדי להישאר יפים ומעודכנים. כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103031000 +0200" stop="20211103040000 +0200" channel="Channel12.il">
+<title lang="he">להיות איתה - תינוקה של ונסה</title>
+<desc lang="he">אחרי שאביגיל שיתפה בחששות שלה, עמוס נוסע לנועה לבקש שלא תגיע לחתונה והשיחה לא נעצרת שם. האם הפרק הלפני אחרון יביא תפנית בלתי צפויה? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103040000 +0200" stop="20211103060000 +0200" channel="Channel12.il">
+<title lang="he">גלית ויואב</title>
+<desc lang="he">שידור חי.תוכנית חדשה, גלית גוטמן ויואב לימור, כל יום בין אחת לשלוש, עם כל החדשות, עידכונים, סיפורים שקורים ואורחים מעניינים. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103060000 +0200" stop="20211103070000 +0200" channel="Channel12.il">
+<title lang="he">שלוש עם עופר חדד</title>
+<desc lang="he">החדשות הראשונות של היום. עופר חדד עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים בכל יום בשלוש כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103070000 +0200" stop="20211103080000 +0200" channel="Channel12.il">
+<title lang="he">מהדורה ראשונה</title>
+<desc lang="he">מגזין חדשות יומי. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103080000 +0200" stop="20211103085500 +0200" channel="Channel12.il">
+<title lang="he">חמש עם רפי רשף</title>
+<desc lang="he">תכנית אקטואליה יומית, בהנחיית רפי רשף. התכנית משודרת בימים ראשון - חמישי כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103085500 +0200" stop="20211103100000 +0200" channel="Channel12.il">
+<title lang="he">שש עם....</title>
+<desc lang="he">בכל ערב ב-18:00 עודד בן עמי מביא אליכם למסך את האנשים שעושים את הכותרות בישראל ומספרים על הדרמות המרגשות של היום כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103100000 +0200" stop="20211103105800 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103105800 +0200" stop="20211103123000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הערב - המהדורה המרכזית</title>
+<desc lang="he">מהדורת החדשות המרכזית של ערוץ 12. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103123000 +0200" stop="20211103135500 +0200" channel="Channel12.il">
+<title lang="he">להיות איתה - תגיד לי שאתה אוהב אותי</title>
+<desc lang="he">להיות איתה - תגיד לי שאתה אוהב אותי. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103135500 +0200" stop="20211103143000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103143000 +0200" stop="20211103150000 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103150000 +0200" stop="20211103150500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חצות</title>
+<desc lang="he">מבזק חצות בליווי שס''י. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103150500 +0200" stop="20211103160500 +0200" channel="Channel12.il">
+<title lang="he">בזמן שעבדתם - דני פלד ודרור גלוברמן</title>
+<desc lang="he">דרור גלוברמן ודני פלד עושים לכם סדר בכל מה שקורה בעולם הטכנולוגיה ומדיה. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103160500 +0200" stop="20211103173500 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103173500 +0200" stop="20211103175500 +0200" channel="Channel12.il">
+<title lang="he">נכס צאן ברזל - השירים</title>
+<desc lang="he">נכס צאן ברזל - השירים ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103175500 +0200" stop="20211103190000 +0200" channel="Channel12.il">
+<title lang="he">פרספקטיבה</title>
+<desc lang="he">מגזין שבועי בהנחיית למא טאטור ואליאס עבוד. תוכנית אירוח וראיונות טלווזיונית בשפה הערבית. אורחים שונים מרקעים שונים, ובעלי תחומי עניין רחבים ומגוונים דנים בנושאים שונים - אישיים וציבוריים. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103190000 +0200" stop="20211103193000 +0200" channel="Channel12.il">
+<title lang="he">אמנות ותבשילים</title>
+<desc lang="he">שתי דמויות מעולם האמנות ומתחום הקולינריה נפגשים במקום הטבעי להם כגון במה, אולם, מוזיאון, או מעבדה ובמקביל, שף, איש קיטרינג, קונדיטור או אפילו חובבן ומכינים בפנינו אוכל טעים ומיוחד. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103193000 +0200" stop="20211103200000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103200000 +0200" stop="20211103202000 +0200" channel="Channel12.il">
+<title lang="he">חי בלילה</title>
+<desc lang="he">נדב בורנשטיין מסכם את היום. הסיפורים הכי מעניינים, הסרטונים הכי נצפים, הסטטוסים הכי משותפים וכל מה שדיברו עליו ברשתות החברתיות ובאתרי החדשות. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103202000 +0200" stop="20211103210000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103210000 +0200" stop="20211103211500 +0200" channel="Channel12.il">
+<title lang="he">מוקדם על הבוקר</title>
+<desc lang="he">מוקדם על הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103211500 +0200" stop="20211103212000 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103212000 +0200" stop="20211103220000 +0200" channel="Channel12.il">
+<title lang="he">כותרות הבוקר</title>
+<desc lang="he">כותרות הבוקר כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103220000 +0200" stop="20211103220800 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211103220800 +0200" stop="20211104003000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הבוקר עם ניב רסקין</title>
+<desc lang="he">מהדורת החדשות המרכזית של הבוקר, האנשים הפרשנויות והכותרות שיעשו את היום. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104003000 +0200" stop="20211104003500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104003500 +0200" stop="20211104023000 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104023000 +0200" stop="20211104030500 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס עם מהדורת חדשות הבידור המובילה בישראל - הסיפורים הכי חמים, הכוכבים הכי נוצצים והשערוריות המרתקות של עולם הבידור. כ' ע''פ דרישה. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104030500 +0200" stop="20211104041500 +0200" channel="Channel12.il">
+<title lang="he">חתונה ממבט ראשון</title>
+<desc lang="he">ניסוי חברתי נועז, מספק הצצה נדירה לזוגות אמיצים, שהסכימו לפגוש את החצי השני שלהם לראשונה - מתחת לחופה! האם הזוגות, שהותאמו על ידי צוות מומחים, יצליחו לחיות כזוג בעודם זרים מוחלטים? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104041500 +0200" stop="20211104051000 +0200" channel="Channel12.il">
+<title lang="he">להיות איתה 3 - ואז הגיע אביתר</title>
+<desc lang="he">החתונה מתקרבת ונועה מתקרבת לאביגיל. האם היא החברה הכי טובה או שחקנית מעולה שיש לה תוכניות אחרות? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104051000 +0200" stop="20211104060000 +0200" channel="Channel12.il">
+<title lang="he">להיות איתה - תינוקה של ונסה</title>
+<desc lang="he">אחרי שאביגיל שיתפה בחששות שלה, עמוס נוסע לנועה לבקש שלא תגיע לחתונה והשיחה לא נעצרת שם. האם הפרק הלפני אחרון יביא תפנית בלתי צפויה? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104060000 +0200" stop="20211104070000 +0200" channel="Channel12.il">
+<title lang="he">שלוש עם עופר חדד</title>
+<desc lang="he">החדשות הראשונות של היום. עופר חדד עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים בכל יום בשלוש כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104070000 +0200" stop="20211104080000 +0200" channel="Channel12.il">
+<title lang="he">מהדורה ראשונה</title>
+<desc lang="he">מגזין חדשות יומי. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104080000 +0200" stop="20211104085500 +0200" channel="Channel12.il">
+<title lang="he">חמש עם רפי רשף</title>
+<desc lang="he">תכנית אקטואליה יומית, בהנחיית רפי רשף. התכנית משודרת בימים ראשון - חמישי כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104085500 +0200" stop="20211104100000 +0200" channel="Channel12.il">
+<title lang="he">שש עם....</title>
+<desc lang="he">בכל ערב ב-18:00 עודד בן עמי מביא אליכם למסך את האנשים שעושים את הכותרות בישראל ומספרים על הדרמות המרגשות של היום כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104100000 +0200" stop="20211104105800 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104105800 +0200" stop="20211104123000 +0200" channel="Channel12.il">
+<title lang="he">חדשות הערב - המהדורה המרכזית</title>
+<desc lang="he">מהדורת החדשות המרכזית של ערוץ 12. כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104123000 +0200" stop="20211104134500 +0200" channel="Channel12.il">
+<title lang="he">המתחזים- הג'נטלמן והאמא האמיצה</title>
+<desc lang="he">המתחזים- עם חיים אתגר. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104134500 +0200" stop="20211104135500 +0200" channel="Channel12.il">
+<title lang="he">המתחזים - דיון באולפן</title>
+<desc lang="he">המתחזים - דיון באולפן. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104135500 +0200" stop="20211104143000 +0200" channel="Channel12.il">
+<title lang="he">רפי רשף - אינטימי</title>
+<desc lang="he">רפי רשף - אינטימי כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104143000 +0200" stop="20211104150000 +0200" channel="Channel12.il">
+<title lang="he">נקסט</title>
+<desc lang="he">דרור גלוברמן בתכנית לילה עם כל מה שחדש ומשפיע על החיים שלנו בטכנולוגיה, בבריאות, בחינוך, בכלכלה, ובכל תחום בחיים. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104150000 +0200" stop="20211104150500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חצות</title>
+<desc lang="he">מבזק חצות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104150500 +0200" stop="20211104161000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. כ' ע''פ דרישה. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104161000 +0200" stop="20211104175500 +0200" channel="Channel12.il">
+<title lang="he">פאולה וליאון</title>
+<desc lang="he">פאולה וליאון רוזנברג, מתחילים אתכם את היום עם כל מה שמעניין וחשוב לכם לדעת ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104175500 +0200" stop="20211104190000 +0200" channel="Channel12.il">
+<title lang="he">פרספקטיבה</title>
+<desc lang="he">מגזין שבועי בהנחיית למא טאטור ואליאס עבוד. תוכנית אירוח וראיונות טלווזיונית בשפה הערבית. אורחים שונים מרקעים שונים, ובעלי תחומי עניין רחבים ומגוונים דנים בנושאים שונים - אישיים וציבוריים. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104190000 +0200" stop="20211104193000 +0200" channel="Channel12.il">
+<title lang="he">אמנות ותבשילים</title>
+<desc lang="he">שתי דמויות מעולם האמנות ומתחום הקולינריה נפגשים במקום הטבעי להם כגון במה, אולם, מוזיאון, או מעבדה ובמקביל, שף, איש קיטרינג, קונדיטור או אפילו חובבן ומכינים בפנינו אוכל טעים ומיוחד. כ' עב'. כ' ער'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104193000 +0200" stop="20211104200500 +0200" channel="Channel12.il">
+<title lang="he">נקסט</title>
+<desc lang="he">דרור גלוברמן בתכנית לילה עם כל מה שחדש ומשפיע על החיים שלנו בטכנולוגיה, בבריאות, בחינוך, בכלכלה, ובכל תחום בחיים. כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104200500 +0200" stop="20211104202000 +0200" channel="Channel12.il">
+<title lang="he">רפי רשף - אינטימי</title>
+<desc lang="he">רפי רשף - אינטימי כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104202000 +0200" stop="20211104210000 +0200" channel="Channel12.il">
+<title lang="he">תכנית חיסכון</title>
+<desc lang="he">התכנית הצרכנית-כלכלית המובילה בישראל. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104210000 +0200" stop="20211104211500 +0200" channel="Channel12.il">
+<title lang="he">שש עם גלית ויואב</title>
+<desc lang="he">שש עם גלית ויואב כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104211500 +0200" stop="20211104212000 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104212000 +0200" stop="20211104220000 +0200" channel="Channel12.il">
+<title lang="he">שש עם גלית ויואב</title>
+<desc lang="he">שש עם גלית ויואב כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104220000 +0200" stop="20211104220800 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211104220800 +0200" stop="20211105010000 +0200" channel="Channel12.il">
+<title lang="he">שישי בבוקר עם גלית ויואב</title>
+<desc lang="he">גלית גוטמן ויואב לימור פותחים בכל שישי את סוף השבוע עם הסיפורים והאורחים הכי מעניינים שעליהם ידברו כל השבת. שידור חי כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105010000 +0200" stop="20211105010500 +0200" channel="Channel12.il">
+<title lang="he">מבזק חדשות</title>
+<desc lang="he">מבזק חדשות כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105010500 +0200" stop="20211105021000 +0200" channel="Channel12.il">
+<title lang="he">כמעט שבת שלום</title>
+<desc lang="he">אבי כאכון מארח זמרים ואורחים שיעשו לכם את השבת. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105021000 +0200" stop="20211105024000 +0200" channel="Channel12.il">
+<title lang="he">השיעור השבועי עם סיון רהב מאיר</title>
+<desc lang="he">השיעור השבועי עם סיון רהב מאיר כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105024000 +0200" stop="20211105030500 +0200" channel="Channel12.il">
+<title lang="he">מה הלו''ז ?</title>
+<desc lang="he">מה הלוז- מגזין התרבות החדש עם מעיין אדם ואבי קורניק,כל ההמלצות הכי שוות לסרטים ,הופעות ,פסטיבלים ובילויים לכל המשפחה. כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105030500 +0200" stop="20211105033500 +0200" channel="Channel12.il">
+<title lang="he">הקומה ה - 12</title>
+<desc lang="he">מגזין הנדל''ן של קשת המסכם את כל מה שקורה בשוק הבניה, הדיור והעיצוב בישראל. כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105033500 +0200" stop="20211105042500 +0200" channel="Channel12.il">
+<title lang="he">סודות הנדל''ן</title>
+<desc lang="he">מגזין שבועי בהנחיית עורכת הדין דפנה שחר ומומחי נדלן נוספים הפותחת דלת לזירה הנדלנית בארץ ובחול. במסגרת התכנית יתראיינו אנשי מקצוע מהקשת הרחבה של הענף: יזמות, השקעות, התחדשות עירונית ועוד כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105042500 +0200" stop="20211105050000 +0200" channel="Channel12.il">
+<title lang="he">מרגישות יופי</title>
+<desc lang="he">הטרנדים והחידושים הכי חמים ונכונים של עולם היופי והטיפוח. כל מה שצריך לדעת כדי להישאר יפים ומעודכנים. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105050000 +0200" stop="20211105053500 +0200" channel="Channel12.il">
+<title lang="he">רפי רשף - אינטימי</title>
+<desc lang="he">רפי רשף - אינטימי כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105053500 +0200" stop="20211105060000 +0200" channel="Channel12.il">
+<title lang="he">גיא פינס</title>
+<desc lang="he">גיא פינס כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105060000 +0200" stop="20211105080000 +0200" channel="Channel12.il">
+<title lang="he">גלית ואילנית</title>
+<desc lang="he">גלית גוטמן ואילנית לוי מקבלות את סוף השבוע בתכנית אירוח כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105080000 +0200" stop="20211105090000 +0200" channel="Channel12.il">
+<title lang="he">שישי בחמש עם גדעון אוקו</title>
+<desc lang="he">שישי בחמש עם גדעון אוקו כ' ע''פ דרישה. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105090000 +0200" stop="20211105105700 +0200" channel="Channel12.il">
+<title lang="he">אופירה וברקוביץ'</title>
+<desc lang="he">אופירה וברקוביץ' מסכמים את השבוע עם האורחים הכי חמים. כ' ע''פ דרישה.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105105700 +0200" stop="20211105123000 +0200" channel="Channel12.il">
+<title lang="he">אולפן שישי</title>
+<desc lang="he">מגזין בהשתתפות פאנל פרשנים המסכם את השבוע ועוד כתבות מרגשות מהיומן. בליווי שס''י. שידור חי.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105123000 +0200" stop="20211105133000 +0200" channel="Channel12.il">
+<title lang="he">סברי מרנן - הצעת נישואין</title>
+<desc lang="he">איתמר מגיע לארוחת שישי אצל שי ושני עם השכנה החדשה של ריקי, ורז מגיע עם חברה חדשה. גנטית הם לא בסדר. כ' עב'.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105133000 +0200" stop="20211105143000 +0200" channel="Channel12.il">
+<title lang="he">להיות איתה</title>
+<desc lang="he">להיות איתה כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
+<programme start="20211105143000 +0200" stop="20211105153500 +0200" channel="Channel12.il">
+<title lang="he">הזמר במסכה</title>
+<desc lang="he">הזמר במסכה, הפורמט שכבש את העולם חוזר בעונה חדשה. הסוד הכי שמור בטלוויזיה עומד להיחשף. האם תצליחו לזהות את 18 האנשים המפורסמים בישראל הנמצאים מאחורי המסכה? כ' עב'. ש.ח.  (C) פישנזון</desc>
+</programme>
 </tv>

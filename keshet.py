@@ -145,16 +145,8 @@ urlSplit = resolutions[0][2].split('?hdntl=');
 url = '{0}?hdntl={1}&Cookie={2}|User-Agent="{3}"'.format(urlSplit[0],urlparse.quote(urlSplit[1]),urlparse.quote(cookie_string),userAgent);
 url = urlparse.urljoin(baseUrl, url);
 
-#check = session.get(url, headers=headers, cookies=link.cookies);
-#check.encoding = 'utf-8';
-
-#if (check.status_code==200):
-#	print('success');
-#else:
-#	print('error');
-#
 final_str = """#EXTM3U
-#EXTINF:-1 tvg-id="Channel12.il" tvg-name="קשת 12" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg"  
+#EXTINF:-1 tvg-id="Channel12.il" tvg-name="קשת 12" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg",קשת 12
 """;
 
 final_str = final_str + url;
