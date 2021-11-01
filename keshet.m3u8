@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="12" tvg-name="12" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg",12
+#EXTINF:-1 tvg-id="Channel12.il" tvg-name="קשת 12" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg",קשת 12
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8?hdntl=exp%3D1635876859~acl%3D/%2A~data%3Dhdntl~hmac%3D62473bd6a1f11395910a9131fbea0d52a7a64e4e1233fb19412a9ce4e89d39c1&Cookie=_alid_%3DdFS/kdZOsdalFKz0zPrhVQ%3D%3D|User-Agent="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)"
