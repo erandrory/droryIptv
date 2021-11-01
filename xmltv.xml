@@ -3,7 +3,7 @@
     <channel id="Channel12.il">
         <display-name lang="he">קשת 12</display-name>
     </channel>
-    <programme start="20211031000000 +0300" stop="20211101100500 +0300" channel="Channel12.il">
+    <programme start="20211100110000 +0300" stop="20211100170000 +0300" channel="Channel12.il">
         <title lang="he">מבזק חצות</title>
         <desc lang="he">מבזק חצות כ' ע''פ דרישה. שידור חי.</desc>
     </programme>
