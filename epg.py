@@ -28,7 +28,7 @@ channel = 'Channel12.il';
 for program in epgJson['12']:
     startTime = datetime.fromtimestamp( int(program['start']) ).strftime("%Y%m%d%H%M%S");
     endTime = datetime.fromtimestamp( int(program['end']) ).strftime("%Y%m%d%H%M%S");
-    programStr = '<programme start="{0} +0200" stop="{1} +0200" channel="{2}">\n<title lang="he">{3}</title>\n<desc lang="he">{4}</desc>\n</programme>\n'.format(startTime,endTime,channel,program['name'],program['description']);
+    programStr = '<programme start="{0} +0300" stop="{1} +0300" channel="{2}">\n<title lang="he">{3}</title>\n<desc lang="he">{4}</desc>\n</programme>\n'.format(startTime,endTime,channel,program['name'],program['description']);
     xml += programStr;
         
 xml += '</tv>';
